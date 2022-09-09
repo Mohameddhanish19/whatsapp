@@ -1,2 +1,2 @@
-#This is a comment
+#This is a command
 print("Hello, World!")
